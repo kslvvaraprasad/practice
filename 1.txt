@@ -1,2 +1,3 @@
 this is masters 1 st line
 2nd line edited after creating f1 branch
+3rd line after fast forward
