@@ -3,3 +3,4 @@ this is masters 1 st line
 3rd line after fast forward
 3 rd line added for f1 for checking git merge
 4th line
+for checking rebase
